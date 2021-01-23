@@ -1,0 +1,16 @@
+it Appears that males have the dominant ratio of the Members Gender for the users of the Bike Sharing System
+people who are 33 years old are using the system more than any one else!
+Subscribers are the most users of the system!
+Most users are registering on the system between 8 AM and 5 PM, Who is using the system by then?
+Thursday is the most day that the system starts its work at!
+The Visualization shows that most member are using the system from 0 to 200 minutes more than else!
+Subscribers are using the system in a wide manner. i Think most of them made the subscribtion in order to use it going to work!
+Males are using the system more widely.
+Saturdays and Sundays have the longest duration!
+Females are Taking Longer Trips than males and others!
+it seems like Thursday and Tuesday has the most time of usage for subscribers!
+it seems like Thursday and Friday has the most time of usage for Customers, may be using for touring or having fun!
+males are using the system more in Thursday and Tuesday.
+males are using the system more in Thursday and Tuesday.
+Others are using the system more in Thursday.
+Subscribers use the system more between 17-8, and also customers
